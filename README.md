@@ -5,3 +5,8 @@
 <br>
 
 ##  📌 실험 환경  [Quartus](https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime.html)
+
+
+## 📌 팀원
+- 201624459 김태경
+- 202055565 여지수
